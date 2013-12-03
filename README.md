@@ -1,0 +1,4 @@
+bnc
+===
+
+Banknote calculator
